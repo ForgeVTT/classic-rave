@@ -6,6 +6,6 @@
   "author": "The Forge",
   "dependencies": {
     "classic-level": "^1.3.0",
-    "rave-level": "git+https://github.com/ForgeVTT/rave-level.git"
+    "rave-level": "https://github.com/ForgeVTT/rave-level.git"
   }
 }
