@@ -1,0 +1,11 @@
+{
+  "name": "classic-rave",
+  "version": "1.0.0",
+  "description": "Extend rave-level to be a drop in replacement for classic-level.",
+  "main": "index.js",
+  "author": "The Forge",
+  "dependencies": {
+    "classic-level": "^1.3.0",
+    "rave-level": "git+https://github.com/ForgeVTT/rave-level.git"
+  }
+}
